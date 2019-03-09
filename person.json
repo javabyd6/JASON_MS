@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Geniu",
+    "lastName": "Kowalski",
+    "address": {
+      "city": "Bydgoszcz",
+      "street": "Halicka",
+      "document": null
+    }
+  },
+  {
+    "name": "Waldek",
+    "lastName": "Janicki",
+    "address": {
+      "city": "Bydgoscz",
+      "street": "Lelewela",
+      "document": null
+    }
+  },
+  {
+    "name": "Janek",
+    "lastName": "Waldecki",
+    "address": {
+      "city": "Poznań",
+      "street": "Strzelecka",
+      "document": null
+    }
+  }
+]
